@@ -1,0 +1,9 @@
+
+
+## 3) requirements.txt (starter)
+
+tensorflow==2.20.0 (or >=2.20.0 if you want flexibility)
+tensorflow-datasets
+numpy
+matplotlib
+scikit-learn

@@ -1,0 +1,13 @@
+{
+  "model_name": "mobilenetv2_frozen",
+  "timestamp": "2026-01-03T17:40:35.060791",
+  "img_size": [
+    160,
+    160
+  ],
+  "batch_size": 32,
+  "val_accuracy": 0.8173999786376953,
+  "test_accuracy": 0.815500020980835,
+  "val_loss": 0.5209836363792419,
+  "test_loss": 0.5281771421432495
+}

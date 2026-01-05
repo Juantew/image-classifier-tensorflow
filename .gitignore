@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Data (keep raw datasets out of git if large)
+data/raw/
+data/processed/
+
+# Model artifacts (optional: you can commit small models, but usually ignore)
+models/saved_model/
+models/keras/
+
+# Jupyter
+.ipynb_checkpoints/
